@@ -1,0 +1,32 @@
+- Buenas, si has abierto te dire como instalar este parche de español para Limbus Company.
+
+Abre los Archivos de Limbus Company:
+Abre Limbus Company en Steam. Dale click derecho en la barra de la biblioteca y selecciona Administrar>Ver Archivos Locales.
+
+
+Descompresión del Archivo:
+Descomprime el archivo RAR en un lugar de su PC y deberia salir la carpeta ''Lang''. Una vez descomprimido selecciona la carpeta titulada ''Lang'' y ponlo dentro de ''LimbusCompany_Data'' y ya esta.
+
+
+Disfruta!
+Ya puedes abrir Limbus Company tranquilamente y jugarlo en tu idioma de preferencia. En caso de que tengas preguntas o necesites ayuda, no dudes en entrar al servidor de Discord de PMHH.
+
+Link de discord: https://discord.gg/hPdZk7g8dj
+
+©️ By Traducciones Sapinking
+
+Creditos:
+
+Danshe
+uwu del pan
+Traductores
+Big H
+cosotomate
+Don Pendejote
+el master
+Hatasawer/Agüita
+Joandry
+Joshua
+Patoxi
+Shion
+aple
